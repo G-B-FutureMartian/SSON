@@ -1,0 +1,5 @@
+language = "python3"
+run = "python /home/runner/SSON/python3-module/test.py"
+
+[nix]
+channel = "stable-21_11"
