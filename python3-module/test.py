@@ -8,4 +8,4 @@ class hello:
 
 hi = hello()
 
-file = SSON("hi","r")
+file = SSON("hi")
