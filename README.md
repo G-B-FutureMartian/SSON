@@ -26,14 +26,14 @@ This is what it would look like in JSON:
 
 MyObject.JSON
 
-```
+```js
 {
   asset1: value
   asset2: value
   asset3: value
 }
 ```
-```
+```js
 {
   sub_obj
   {
