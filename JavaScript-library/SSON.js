@@ -1,5 +1,6 @@
 class SSON {
-  constructor(data) {
-    this.data = data;
+  constructor(object,mode) {
+    this.object = object;
+    this.mode = mode;
   }
 }
